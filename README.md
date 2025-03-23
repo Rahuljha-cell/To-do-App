@@ -16,7 +16,7 @@ This is a simple and interactive To-Do App that allows users to efficiently mana
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Rahuljha-cell/To-do-App.git
+   git clone: https://github.com/Rahuljha-cell/To-do-App.git
    ```
 2. Navigate to the project directory:
    ```bash
